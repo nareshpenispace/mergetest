@@ -1,2 +1,4 @@
 sample file 1
+second line
+third line
 modified
